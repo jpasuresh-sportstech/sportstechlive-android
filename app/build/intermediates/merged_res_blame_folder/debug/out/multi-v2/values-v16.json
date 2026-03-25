@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sportstechbrands.sportstechlive.app-mergeDebugResources-49:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/jpa/.gradle/caches/transforms-4/a9f997637e13abe3a9087741184c1e7e/transformed/core-1.12.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
