@@ -1,4 +1,0 @@
-com.sportstechbrands.sportstechlive.test.app-androidTest-0 /Users/jpa/Documents/SportstechLive/app/build/generated/res/resValues/androidTest/debug
-com.sportstechbrands.sportstechlive.test.app-mergeDebugAndroidTestResources-1 /Users/jpa/Documents/SportstechLive/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
-com.sportstechbrands.sportstechlive.test.app-mergeDebugAndroidTestResources-2 /Users/jpa/Documents/SportstechLive/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
-com.sportstechbrands.sportstechlive.test.app-merged_res-3 /Users/jpa/Documents/SportstechLive/app/build/intermediates/merged_res/debugAndroidTest
